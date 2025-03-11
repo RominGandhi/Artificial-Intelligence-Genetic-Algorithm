@@ -2,7 +2,7 @@
 
 ## 🚀 CP 468 Term Project - Wilfrid Laurier University  
 
-This project showcases the power of **Genetic Algorithms (GA)** in solving complex optimization problems using **Artificial Intelligence (AI)** techniques. With a user-friendly **Tkinter GUI**, real-time **fitness visualization**, and flexible **objective functions**, this project brings evolution-inspired computing to life! 🌱⚡
+This project showcases the power of Genetic Algorithms (GA) in solving complex optimization problems using Artificial Intelligence (AI) techniques as part of a 400-level AI course at Wilfrid Laurier University. With a user-friendly Tkinter GUI, real-time fitness visualization, and flexible objective functions, this project brings evolution-inspired computing to life! 🌱⚡
 
 ---
 
@@ -73,8 +73,7 @@ Developed as part of **CP 468 - Artificial Intelligence** at **Wilfrid Laurier U
 
 ---
 
-## 📞 Contact & Contributions
-💡 Have suggestions? Found a bug? **Open an issue** or **submit a pull request!**
+⚠️ Do Not Copy
 
-🔗 **[GitHub Repository](https://github.com/your-repo-link)** 🚀
+
 
