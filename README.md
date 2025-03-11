@@ -59,12 +59,7 @@ python genetic_algorithm.py
 ⚙️ **Adjust GA Parameters (Population, Generations, Mutation Rate)**  
 📈 **Track Algorithm Performance in Real-Time**  
 
----
 
-## 📷 Screenshots
-*(Add images showcasing GUI & fitness visualization here!)*
-
----
 
 ## 📜 License
 Developed as part of **CP 468 - Artificial Intelligence** at **Wilfrid Laurier University**.
